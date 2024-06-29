@@ -27,6 +27,14 @@
 
     <div class="full-content">
       <h2>Work Experience</h2>
+      
+      <h3>E-Moli Interactive - Game Developer</h3>
+      <h4>Eskişehir, Turkey (Remote) <span style="float: right;">Feb 2024 - May 2024</span></h4>
+      <div>
+        During my time working at E-Moli Interactive, 4 Unity projects were developed from scratch.
+        Three of these projects are single-player and one is a multiplayer game that can be played over LAN using Mirror Networking.
+        <router-link to="/game-projects">Click to see the developed projects.</router-link>
+      </div>
 
       <h3>Udo Games - Game Developer Intern</h3>
       <h4>Ankara, Turkey <span style="float: right;">Jul 2023 - Aug 2023</span></h4>

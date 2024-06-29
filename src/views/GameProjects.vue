@@ -1,13 +1,12 @@
 <template>
   <div>
     <h1>Projects</h1>
-
     <div style="margin-bottom: 30px;">
       Here are some projects I've developed so far in my game development process.
     </div>
-
-    <ProjectsList v-bind:projects="projects" />
-
+    <div id="wall-Games">
+      <ProjectsList v-bind:projects="projects" />
+    </div>
   </div>
 </template>
 
@@ -28,3 +27,7 @@ export default Vue.extend({
   },
 });
 </script>
+
+<style scoped>
+/* Existing styles */
+</style>

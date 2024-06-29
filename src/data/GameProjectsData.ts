@@ -1,12 +1,12 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("wall-Games", "Interactive Electronic Games", "img/projects/wallgames/wallgamesgif.gif", `
+    new ProjectData("wall-Games", "Interactive Electronic Games (E-Moli)", "img/projects/wallgames/wallgamesgif.gif", `
     <div class="paragraph">
         <strong>Interactive Electronic Games</strong> are fascinating to entertainment for peoples indoor playground. 
         Electronic games are fantastic for both children and adults. 
         Electronic Games help children socialize and encourage exercise thereby promoting mental and physical health.
-        I developed this project with my friend. I took an active part in the development process of the games.
+        I took an active part in the development process of the games.
     </div>
 
     

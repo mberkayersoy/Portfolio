@@ -39,7 +39,7 @@ export default [
     </div>
     `, "#BF0000", false, true),
 
-    new ProjectData("slot-game", "Slot Game", "img/projects/slotgame/slotgamegif.gif", `
+    new ProjectData("slot-game", "Slot Game (3x5)", "img/projects/slotgame/slotgamegif.gif", `
     <div class="paragraph">
         <strong>Slot game</strong> is a prototype of the casino slot games popular today.
         The project is designer friendly. New paylines and different symbols can be easily added. 
@@ -65,7 +65,7 @@ export default [
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/PiWp6BO38_g?si=mqF1nBniC2NtgcNU" frameborder="0" allowfullscreen></iframe>
     </div>
-
+https://www.youtube.com/embed/fpotbeNg0Xs?si=VssuILH682vHwD5h
     <div class="notice">
     Source code is available on <a href="https://github.com/mberkayersoy/Slot-Game" target="_blank">GitHub</a>.
     </div>
@@ -80,6 +80,49 @@ export default [
         <img class="pc-screenshot" src="img/projects/slotgame/slotgame6.jpg" />
     </div>
     `, "#A020F0", false, true),
+
+    new ProjectData("simple-slot-game", "Simple Slot Game", "img/projects/simpleslot/simpleslot_gif.gif", `
+        <div class="paragraph">
+            <strong>Simple Slot Game</strong> machine with a 3 reels.
+        </div>
+    
+        <div class="paragraph">
+            Main features :
+            <ul>
+            <li>Editor windows have been developed to add new symbols, to adjust the result combinations and percentages that will appear in the slot machine with the added symbols, and to display the created spin results.</li>
+            <li>Controls have been provided in the editors to prevent the developer from making mistakes. For example, when a new Result data is wanted to be added, if an ID other than the ID of previously created symbols is written, it will not allow saving. If the chance percentage of all Result data is not 100%, it will not allow saving.</li>
+            <li>All data was stored as json.</li>
+            <li>Dotween was used for the reels in the slot machine. No ready-made animations were used.</li>
+            <li>Spin data was saved when the player left the game.</li>
+            <li>The percentage is automatically divided into periods according to the chance of the spin result. Each Spin result occurs only once in its period.</li>
+            <li>When the player finishes the spin results, new spin results are automatically created and saved.</li>
+            <li>Checked with unit testing.</li>
+            </ul>
+        </div>
+    
+        <div class="paragraph center">
+            <iframe class="youtube" src="https://www.youtube.com/embed/fpotbeNg0Xs?si=VssuILH682vHwD5h" frameborder="0" allowfullscreen></iframe>
+        </div>
+                <div class="paragraph center">
+            <iframe class="youtube" src="https://www.youtube.com/embed/YtEuqvmgvqY?si=fYi6EwXzbixOEXF-" frameborder="0" allowfullscreen></iframe>
+        </div>
+    
+        <div class="notice">
+        Source code is available on <a href="https://github.com/mberkayersoy/SimpleSlotGame_Case"_blank">GitHub</a>.
+        </div>
+    
+    
+        <div class="paragraph center">
+            <img class="pc-screenshot" src="img/projects/simpleslot/simple1.jpg" />
+            <img class="pc-screenshot" src="img/projects/simpleslot/simple2.jpg" />
+            <img class="pc-screenshot" src="img/projects/simpleslot/simple3.jpg" />
+            <img class="pc-screenshot" src="img/projects/simpleslot/simple4.jpg" />
+            <img class="pc-screenshot" src="img/projects/simpleslot/simple5.jpg" />
+            <img class="pc-screenshot" src="img/projects/simpleslot/symboleditor.png"/>
+            <img class="pc-screenshot" src="img/projects/simpleslot/resultgenerator.png" />
+            <img class="pc-screenshot" src="img/projects/simpleslot/showresult.png" />
+        </div>
+        `, "#40E0D0", false, true),
     new ProjectData("project-3", "Battle City Remake", "img/projects/battlecity/battlecitygiff.gif", `
     <div class="paragraph">
         <strong>Battle City Remake</strong> is a 3D mobile version of the old arcade game 'Battle City 1990'. 

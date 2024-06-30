@@ -9,8 +9,6 @@
       I actively took part in personal projects aimed at constantly improving myself. 
       These initiatives include the development of various games and applications that demonstrate my dedication to improving my programming and problem-solving skills.
       <br />
-      <br />Right now I'm working on interactive electronic games with my friend.
-      <br />
       <br />Besides development, I also love playing video games (yes I know it's very surprising), 
             and I like reading comic book, cooking and skateboarding.
 

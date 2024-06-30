@@ -61,15 +61,13 @@ export default [
         <li>Free spins</li>
         </ul>
     </div>
+        <div class="notice">
+    Source code is available on <a href="https://github.com/mberkayersoy/Slot-Game" target="_blank">GitHub</a>.
+    </div>
 
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/PiWp6BO38_g?si=mqF1nBniC2NtgcNU" frameborder="0" allowfullscreen></iframe>
     </div>
-https://www.youtube.com/embed/fpotbeNg0Xs?si=VssuILH682vHwD5h
-    <div class="notice">
-    Source code is available on <a href="https://github.com/mberkayersoy/Slot-Game" target="_blank">GitHub</a>.
-    </div>
-
 
     <div class="paragraph center">
         <img class="pc-screenshot" src="img/projects/slotgame/slotgame1.jpg" />
@@ -99,6 +97,10 @@ https://www.youtube.com/embed/fpotbeNg0Xs?si=VssuILH682vHwD5h
             <li>Checked with unit testing.</li>
             </ul>
         </div>
+
+        <div class="notice">
+        Source code is available on <a href="https://github.com/mberkayersoy/SimpleSlotGame_Case"_blank">GitHub</a>.
+        </div>
     
         <div class="paragraph center">
             <iframe class="youtube" src="https://www.youtube.com/embed/fpotbeNg0Xs?si=VssuILH682vHwD5h" frameborder="0" allowfullscreen></iframe>
@@ -106,12 +108,7 @@ https://www.youtube.com/embed/fpotbeNg0Xs?si=VssuILH682vHwD5h
                 <div class="paragraph center">
             <iframe class="youtube" src="https://www.youtube.com/embed/YtEuqvmgvqY?si=fYi6EwXzbixOEXF-" frameborder="0" allowfullscreen></iframe>
         </div>
-    
-        <div class="notice">
-        Source code is available on <a href="https://github.com/mberkayersoy/SimpleSlotGame_Case"_blank">GitHub</a>.
-        </div>
-    
-    
+
         <div class="paragraph center">
             <img class="pc-screenshot" src="img/projects/simpleslot/simple1.jpg" />
             <img class="pc-screenshot" src="img/projects/simpleslot/simple2.jpg" />
@@ -128,10 +125,6 @@ https://www.youtube.com/embed/fpotbeNg0Xs?si=VssuILH682vHwD5h
         <strong>Battle City Remake</strong> is a 3D mobile version of the old arcade game 'Battle City 1990'. 
         You can either play the levels available in the game or create and play your own level as you wish.
     </div>
-    <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/wQF0W298828?si=auUiKuBqigh4ObMK" frameborder="0" allowfullscreen></iframe>
-    </div>
-
     <div class="paragraph">
         Main features :
         <ul>
@@ -141,12 +134,14 @@ https://www.youtube.com/embed/fpotbeNg0Xs?si=VssuILH682vHwD5h
         <li>Data storage was done with JSON.</li>
         </ul>
     </div>
-
     <div class="paragraph">
         <div class="notice">
         Playable in the browser (WebGL) on <a href="https://mberkayersoy.itch.io/battle-city-remake-3d" target="_blank">itch.io</a>.
         Source code is available on <a href="https://github.com/mberkayersoy/3D-Battle-City-Remake" target="_blank">GitHub</a>.
         </div>
+    </div>
+    <div class="paragraph center">
+        <iframe class="youtube" src="https://www.youtube.com/embed/wQF0W298828?si=auUiKuBqigh4ObMK" frameborder="0" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph center">
@@ -172,13 +167,13 @@ https://www.youtube.com/embed/fpotbeNg0Xs?si=VssuILH682vHwD5h
     </ul>
     </div>
 
+    <div class="notice">
+    Source code is available on <a href="https://github.com/mberkayersoy/Psycho_Bubbles" target="_blank">GitHub</a>.
+    </div>
     <div class="paragraph center">
     <iframe class="youtube" src="https://www.youtube.com/embed/_p9ssupBjkk?si=p9AeTNxJJZnAQj-y" frameborder="0" allowfullscreen></iframe>
     </div>
 
-    <div class="notice">
-    Source code is available on <a href="https://github.com/mberkayersoy/Psycho_Bubbles" target="_blank">GitHub</a>.
-    </div>
 
     <div class="paragraph center">
         <img class="pc-screenshot" src="img/projects/psycho-bubbles/ss1.png"/>
@@ -217,8 +212,6 @@ https://www.youtube.com/embed/fpotbeNg0Xs?si=VssuILH682vHwD5h
     <div class="paragraph center">
         <a href="https://play.google.com/store/apps/details?id=com.SoloGameDev.MusiQ" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
     </div>
-
-
 
     <div class="paragraph center">
         <img class="phone-screenshot" src="img/projects/musiq/ss1.png" alt="ss1" />
